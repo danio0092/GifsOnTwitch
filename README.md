@@ -16,6 +16,7 @@ A- Getting an API Token
 
 
 B- Configure the App
+
 1- Run the Configuration.exe form.
 2- Fill out your channel name
 3- Fill out API Key obtained from Step 
@@ -23,9 +24,11 @@ B- Configure the App
 5= Recommended: Slide the content filtering to the right if you want the results to be more family friendly, sliding this to the late could result in showing some gifs that are generally considered sus.
 
 C- Run The Application
+
 Run the file “Gifs on Twitch”.exe
 
 D- OBS Set up
+
 1- Go to your scene in OBS and add new Window Capture Source
 2- Select the Gifs On Twitch Window
 3- Right Click the source and click “Filters”
